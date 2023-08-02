@@ -1,8 +1,3 @@
-//https://www.curseforge.com/minecraft/mc-mods/crystalcraft-by-avery/screenshots
-//https://www.karlsims.com/fluid-flow.html
-//https://www.youtube.com/watch?v=vLxSLueoVqg&ab_channel=Cody%26Ko
-//https://thecodingtrain.com/challenges/132-fluid-simulation
-//
 
 final int N =128;
 final int SCALE =10;
